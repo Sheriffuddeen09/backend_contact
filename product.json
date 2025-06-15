@@ -1,92 +1,20 @@
 [
   {
     "id": 1,
-    "name": "Canvas infinity",
-    "price": 29.99,
-    "imageUrl": "/uploads/Canvas-infinity.png"
+    "name": "Abdullahi Khan",
+    "email": "serena@blakepsychology.com",
+    "phone": "(323) 555-0192",
+    "message": "Hello",
+    "type": "Phone Call",
+    "time": "morning"
   },
   {
-    "id": 2,
-    "name": "Circle Floral",
-    "price": 89.99,
-    "imageUrl": "/uploads/circle floral.png"
-  },
-  {
-    "id": 3,
-    "name": "Luxury Floral",
-    "price": 10.99,
-    "imageUrl": "/uploads/Luxury Floral.png"
-  },
-  {
-    "id": 4,
-    "name": "Wedding Frame",
-    "price": 80.99,
-    "imageUrl": "/uploads/weddingone.png"
-  },
-  {
-    "id": 5,
-    "name": "Wedding Frame Flower",
-    "price": 89.99,
-    "imageUrl": "/uploads/weddingfour.png"
-  },
-  {
-    "id": 6,
-    "name": "Wedding Frame Square",
-    "price": 120,
-    "imageUrl": "/uploads/wedding.png"
-  },
-  {
-    "id": 7,
-    "name": "Roses Frame",
-    "price": 99,
-    "imageUrl": "/uploads/Roses.png"
-  },
-  {
-    "id": 8,
-    "name": "Rose Flower Frame",
-    "price": 60.1,
-    "imageUrl": "/uploads/rosefive.png"
-  },
-  {
-    "id": 9,
-    "name": "Wallpaper Flower Frame",
-    "price": 89.99,
-    "imageUrl": "/uploads/wallpaperone.png"
-  },
-  {
-    "id": 10,
-    "name": "Wallpaper Frame",
-    "price": 49,
-    "imageUrl": "/uploads/wallpaperfour.png"
-  },
-  {
-    "id": 11,
-    "name": "Frame",
-    "price": 29.8,
-    "imageUrl": "/uploads/frame.png"
-  },
-  {
-    "id": 12,
-    "name": "Shadow-Box Frame",
-    "price": 89.99,
-    "imageUrl": "/uploads/shadowbox.png"
-  },
-  {
-    "id": 1749475579568,
-    "name": "Red Rose Flower Frame",
-    "price": 200,
-    "imageUrl": "/uploads/1749475579558-floralfour.png"
-  },
-  {
-    "id": 1749475633145,
-    "name": "Red Rose Flower Frame",
-    "price": 200,
-    "imageUrl": "/uploads/1749475633127-rosefour.png"
-  },
-  {
-    "id": 1749475970831,
-    "name": "Red Rose Flower Frame",
-    "price": 200,
-    "imageUrl": "/uploads/1749475970828-floralfour.png"
+    "id": 1749977738036,
+    "name": "chatbox",
+    "message": "help",
+    "time": "morning",
+    "type": "Phone Call",
+    "phone": "09150965341",
+    "email": "admin@123.com"
   }
 ]
